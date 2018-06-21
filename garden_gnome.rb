@@ -7,3 +7,4 @@ class GardenGnome
     @age = age 
   end 
   
+end 
