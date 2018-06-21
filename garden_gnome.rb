@@ -5,4 +5,4 @@ class GardenGnome
   def initialize (Name,Age)
     @name = name 
     @age = age 
-    
+  end 
