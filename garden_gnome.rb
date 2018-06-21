@@ -1,3 +1,4 @@
 # Code your instances here
 
-class
+class GardenGnome
+  
