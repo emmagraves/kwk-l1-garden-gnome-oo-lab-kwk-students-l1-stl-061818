@@ -2,9 +2,10 @@
 
 class GardenGnome
   attr_accessor :name ,:age ,:gluten_allergy
-  def initialize(name,age,)
+  def initialize(name,age,gluten_allergy,)
     @name = name 
     @age = age 
+  @gluten_allergy = gluten_allergy
   end 
   
 end 
