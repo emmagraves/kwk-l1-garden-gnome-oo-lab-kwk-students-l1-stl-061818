@@ -9,3 +9,4 @@ class GardenGnome
   
 end 
 
+GardenGnome1 = GardenGnome.new("Paige", "Emma") 
