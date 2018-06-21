@@ -17,5 +17,8 @@ GardenGnome2 = GardenGnome.new("Emma", 4000)
  
 puts @personality = "evil"
 
-
-hat_color.new
+class hat_color
+ attr_accessor :yellow ,:green ,:pink 
+hat_color.new(red)
+  
+  
