@@ -2,4 +2,4 @@
 
 class GardenGnome
   attr_accessor :name , :Age 
-  
+  def initialize
