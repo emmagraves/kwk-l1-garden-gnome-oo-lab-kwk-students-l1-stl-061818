@@ -6,3 +6,4 @@ class GardenGnome
     @name = name 
     @age = age 
   end 
+  
